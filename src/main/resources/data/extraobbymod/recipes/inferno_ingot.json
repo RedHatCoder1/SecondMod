@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+          [
+            { "item": "extraobbymod:block_of_inferno" }
+          ],
+  "result":
+  {
+    "item": "extraobbymod:inferno_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "extraobbymod:item/pickaxe_of_tears"
+  }
+}
